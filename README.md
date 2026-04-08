@@ -21,4 +21,4 @@ A smart Chrome Extension that automates survey completion with human-like behavi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/survey-autopilot-pro.git
+git clone https://github.com/SameerAhm-ed/survey-autopilot-pro.git

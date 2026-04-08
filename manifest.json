@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Survey Autopilot Pro",
+  "version": "2.0",
+  "description": "Automates survey completion with smart behavior",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["*://*/survey/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
